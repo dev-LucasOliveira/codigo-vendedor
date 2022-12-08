@@ -151,6 +151,7 @@
 
 .section-b > div > h5 {
     width: 25%;
+    text-align: center;
 }
 
 .section-b > a {
@@ -196,5 +197,13 @@
 
     .section-b > h1 {
         font-size: calc(20px + 5vw);
+    }
+
+    .section-b > h2 {
+        font-size: calc(25px + 2vw);
+    }
+
+    .section-b > div > h5 {
+        font-size: calc(7px + 1vw);
     }
 }
